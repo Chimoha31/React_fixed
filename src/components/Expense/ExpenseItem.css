@@ -38,6 +38,7 @@
   border-radius: 12px;
 }
 
+
 @media (min-width: 580px) {
   .expense-item__description {
     flex-direction: row;
